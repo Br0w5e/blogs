@@ -7,5 +7,5 @@ contact_links:
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
   - name: GitHub Security Bug Bounty1
-    url: ./single_question.md
+    url: https://raw.githubusercontent.com/Br0w5e/blogs/main/.github/ISSUE_TEMPLATE/single_question.md
     about: Please report security vulnerabilities here.
